@@ -1,0 +1,12 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 00095H 00096H STK                STACK
+ 000A0H 0013FH 000A0H DATASEG            DATA
+ 00140H 0017DH 0003EH CODESEG            CODE
+
+Error: Undefined symbol INPUT_NUMBER in module D:\MAIN.ASM
+Error: Undefined symbol CONVERT_UBIN in module D:\MAIN.ASM
+Error: Undefined symbol CONVERT_SHEX in module D:\MAIN.ASM
+Program entry point at 0014:001B
+
