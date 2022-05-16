@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dev/Documents/programming/uni/asm_labs/8/double.h
+
+/home/dev/Documents/programming/uni/asm_labs/8/float.h
+
+/home/dev/Documents/programming/uni/asm_labs/8/ldouble.h
+
+/home/dev/Documents/programming/uni/asm_labs/8/main.cpp
+iostream
+-
+cstdio
+-
+ctime
+-
+cstdlib
+-
+string
+-
+float.h
+/home/dev/Documents/programming/uni/asm_labs/8/float.h
+double.h
+/home/dev/Documents/programming/uni/asm_labs/8/double.h
+ldouble.h
+/home/dev/Documents/programming/uni/asm_labs/8/ldouble.h
+sinus.h
+/home/dev/Documents/programming/uni/asm_labs/8/sinus.h
+
+/home/dev/Documents/programming/uni/asm_labs/8/sinus.h
+math.h
+-
+stdio.h
+-
+time.h
+-
+

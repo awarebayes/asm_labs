@@ -1,0 +1,3 @@
+/home/dev/Documents/programming/uni/asm_labs/8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dev/Documents/programming/uni/asm_labs/8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dev/Documents/programming/uni/asm_labs/8/cmake-build-debug/CMakeFiles/8.dir

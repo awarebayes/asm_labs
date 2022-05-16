@@ -1,0 +1,4 @@
+/home/dev/Documents/programming/uni/asm_labs/3_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dev/Documents/programming/uni/asm_labs/3_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dev/Documents/programming/uni/asm_labs/3_test/cmake-build-debug/CMakeFiles/3_test.dir
+/home/dev/Documents/programming/uni/asm_labs/3_test/cmake-build-debug/CMakeFiles/3_test_autogen.dir
